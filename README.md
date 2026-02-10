@@ -22,4 +22,4 @@ c) Transient viscosity model: This update includes a thixotropic (viscosity tran
 
 # Examples
 
-Here you will find an example (folder named “Example”) containing the files needed to run a case of the interaction of three droplets under a continuous fluid phase. The main script is called “in.sdpd_phase.2d”.
+Here you will find an example (folder named “Example”) containing the files needed to run a case of the interaction of three droplets under a continuous fluid phase. The main script is called “in.sdpd_phase.2d”..
